@@ -8,17 +8,9 @@ Entrega Parcial 01
 Entrega Parcial 02
   Faça a codificação do prototipo utilizando Flask.
 
-## <img src="https://img.icons8.com/ios/50/FFFFFF/laptop-settings--v2.png" alt="Ícone de Requerimentos" width="30" height="30" style="vertical-align: middle;"> Requerimentos
-
-Para executar o projeto, é necessário ter o Python instalado em seu computador. Recomendo a versão 3.8 ou superior.
-
-Além disso, é importante destacar que este projeto foi testado apenas em ambiente Windows. Se você estiver utilizando outro sistema operacional, é possível que haja incompatibilidade ou limitações na execução do código.
-
-## <img src="https://img.icons8.com/ios-filled/50/FFFFFF/computer.png" alt="Ícone de Como Executar o Projeto" width="30" height="30" style="vertical-align: middle;"> Como Executar o Projeto
-
 Para executar o projeto, siga as instruções abaixo:
 
-1. Instale o Python em seu computador. Recomendamos a versão 3.8 ou superior.
+1. Instale o Python em seu computador. Recomendo a versão 3.8 ou superior.
 
    - Para instalar o Python no Windows, acesse o [site oficial](https://www.python.org/downloads/windows/) e baixe o instalador adequado à sua versão do Windows.
 
@@ -33,7 +25,7 @@ git clone https://github.com/DouglasMedeiros1/Atividades-Design-Digital.git
 ```
 
 
-4. Entre na pasta do repositório e acesse a pasta Frontend:
+4. Entre na pasta do repositório e acesse a pasta Src:
 
 ```
 cd Src
@@ -46,10 +38,10 @@ py -m venv venv
 venv\Scripts\activate
 ```
 
-6. Instale o Flask:
+6. Instale o Requirements:
 
 ```
-pip install Flask
+pip install -r requirements.txt
 ```
 
 
